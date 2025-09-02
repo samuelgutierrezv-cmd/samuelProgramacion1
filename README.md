@@ -7,7 +7,7 @@ Sirve como práctica de programación backend y manejo de estructuras de datos.
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/gestor-tareas.git
+   git clone https://github.com/samuelgutierrez-cmd/samuelProgramacion1
 2. Abrir el proyecto en tu IDE favorito (Eclipse, IntelliJ o NetBeans).
 3. Compilar y ejecutar el archivo principal Main.java.
 
