@@ -21,3 +21,5 @@ Herramientas
 
 java 1.20.1 JDK
 tipo de aplicación consola
+
+NOTA: es simplente un jemplo en caso de que en el codigo que halla en el repositorio sea lo especificado en este redmi que es un ejmplo.
